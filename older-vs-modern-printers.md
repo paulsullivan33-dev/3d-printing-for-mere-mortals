@@ -58,8 +58,10 @@ mainboard) closes much of the gap for much less than a new machine.
 
 If you print often and spend more time fixing the printer than using
 it: yes. A modern printer pays for itself in frustration saved, not in
-better-looking parts. If you print occasionally and your old machine is
-dialed in: keep it — a tuned older printer makes the same objects.
+better-looking parts. One owner moved from an Ender 6 to Bambu P1S/P2S
+machines and calls the ease-of-use difference significant. If you print
+occasionally and your old machine is dialed in: keep it — a tuned older
+printer makes the same objects.
 Upgrade for the experience, not the output quality; a good print from
 2019 looks like a good print from 2026.
 
