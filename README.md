@@ -23,7 +23,9 @@ matter, and how to get a good print without the frustration.
    actually matter.
 6. [Troubleshooting](troubleshooting.md) — common failures, plain
    fixes.
-7. [Glossary](glossary.md) — quick definitions, A to Z.
+7. [Multicolor Printing](multicolor-printing.md) — the gotchas: purge
+   waste, time, and color bleed.
+8. [Glossary](glossary.md) — quick definitions, A to Z.
 
 ## A note on language
 
