@@ -33,3 +33,6 @@ These guides explain ideas simply. Simple wording is a choice, not a
 judgment — the concepts underneath are the real ones, and the
 [Glossary](glossary.md) gives you the proper terms so you can talk to
 other printer owners without translation.
+
+Every guide follows the same [writing criteria](criteria.md): plain
+words, no hype, honest limits, and checkable steps.
