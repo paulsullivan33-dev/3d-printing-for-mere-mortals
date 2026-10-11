@@ -29,13 +29,20 @@ seated in the extruder gears.
 
 ## 3. Level the bed and set the gap
 
-Run the printer's auto bed leveling if it has it. Then set the nozzle
-gap (z-offset): the nozzle should just barely grip a sheet of paper
-slid underneath — you feel slight drag. Too high and the first layer
-won't stick; too low and the nozzle drags through the plastic.
+**On a modern printer** (automatic bed leveling — Bambu, Prusa MK4,
+Creality K2, and similar): run the automatic calibration from the
+printer's menu and skip the rest of this step. The printer probes the
+bed and sets the nozzle gap itself.
 
-**Check:** the paper-drag test at several points on the bed. This one
-adjustment decides more first prints than anything else.
+**On an older printer** (manual leveling knobs): this step is
+essential. Turn the knobs to level the bed, then set the nozzle gap
+(z-offset): the nozzle should just barely grip a sheet of paper slid
+underneath — you feel slight drag. Too high and the first layer won't
+stick; too low and the nozzle drags through the plastic.
+
+**Check:** on older printers, the paper-drag test at several points on
+the bed. This one adjustment decides more first prints than anything
+else on machines without auto leveling.
 
 ## 4. Slice a starter model
 

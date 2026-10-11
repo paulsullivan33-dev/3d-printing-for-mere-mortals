@@ -11,8 +11,9 @@ nozzle instead of lying flat.
 
 - **Bed isn't clean.** Fingerprints kill adhesion. Wash with soap and
   water, then wipe with isopropyl alcohol.
-- **Nozzle gap wrong.** Too high and plastic can't grip; re-do the
-  paper-drag test from [Your First Print](first-print.md).
+- **Nozzle gap wrong** (mostly older printers — modern ones set this
+  automatically). Too high and plastic can't grip; re-do the paper-drag
+  test from [Your First Print](first-print.md).
 - **Bed too cool.** Make sure it's actually reaching the filament's
   bed temperature (60°C for PLA).
 - **Drafts.** A breeze across the bed (AC vent, open window) cools the

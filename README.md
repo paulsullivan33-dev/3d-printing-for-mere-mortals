@@ -25,7 +25,9 @@ matter, and how to get a good print without the frustration.
    fixes.
 7. [Multicolor Printing](multicolor-printing.md) — the gotchas: purge
    waste, time, and color bleed.
-8. [Glossary](glossary.md) — quick definitions, A to Z.
+8. [Older vs. Modern Printers](older-vs-modern-printers.md) — what
+   changed between generations, and whether to upgrade.
+9. [Glossary](glossary.md) — quick definitions, A to Z.
 
 ## A note on language
 

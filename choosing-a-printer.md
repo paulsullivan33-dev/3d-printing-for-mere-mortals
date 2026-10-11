@@ -61,4 +61,5 @@ Community reviews from actual owners (Reddit's r/3Dprinting, YouTube
 makers) are worth more than any spec sheet.
 
 Related: [Filament in Plain Language](filament-guide.md),
-[Your First Print](first-print.md).
+[Your First Print](first-print.md),
+[Older vs. Modern Printers](older-vs-modern-printers.md).
